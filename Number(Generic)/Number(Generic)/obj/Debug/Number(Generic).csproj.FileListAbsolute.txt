@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Number(Generic)\Number(Generic)\bin\Debug\Number(Generic).exe.config
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Number(Generic)\Number(Generic)\bin\Debug\Number(Generic).exe
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Number(Generic)\Number(Generic)\bin\Debug\Number(Generic).pdb
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Number(Generic)\Number(Generic)\obj\Debug\Number(Generic).csprojAssemblyReference.cache
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Number(Generic)\Number(Generic)\obj\Debug\Number(Generic).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Number(Generic)\Number(Generic)\obj\Debug\Number(Generic).exe
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Number(Generic)\Number(Generic)\obj\Debug\Number(Generic).pdb
