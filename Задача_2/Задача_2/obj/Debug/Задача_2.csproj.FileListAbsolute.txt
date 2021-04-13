@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Задача_2\Задача_2\bin\Debug\Задача_2.exe.config
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Задача_2\Задача_2\bin\Debug\Задача_2.exe
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Задача_2\Задача_2\bin\Debug\Задача_2.pdb
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Задача_2\Задача_2\obj\Debug\Задача_2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Задача_2\Задача_2\obj\Debug\Задача_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Задача_2\Задача_2\obj\Debug\Задача_2.exe
+C:\Users\User\Desktop\Учёба\Информатика и программирование\Задача_2\Задача_2\obj\Debug\Задача_2.pdb
