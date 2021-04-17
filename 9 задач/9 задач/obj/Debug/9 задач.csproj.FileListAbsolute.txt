@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\Учёба\Информатика и программирование\9 задач\9 задач\bin\Debug\9 задач.exe.config
-C:\Users\User\Desktop\Учёба\Информатика и программирование\9 задач\9 задач\bin\Debug\9 задач.exe
-C:\Users\User\Desktop\Учёба\Информатика и программирование\9 задач\9 задач\bin\Debug\9 задач.pdb
-C:\Users\User\Desktop\Учёба\Информатика и программирование\9 задач\9 задач\obj\Debug\9 задач.csprojAssemblyReference.cache
-C:\Users\User\Desktop\Учёба\Информатика и программирование\9 задач\9 задач\obj\Debug\9 задач.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Учёба\Информатика и программирование\9 задач\9 задач\obj\Debug\9 задач.exe
-C:\Users\User\Desktop\Учёба\Информатика и программирование\9 задач\9 задач\obj\Debug\9 задач.pdb
