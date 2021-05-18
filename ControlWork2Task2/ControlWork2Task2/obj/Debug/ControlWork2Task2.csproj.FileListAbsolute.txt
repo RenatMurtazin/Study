@@ -1,0 +1,7 @@
+C:\Users\renat\source\repos\ControlWork2Task2\ControlWork2Task2\bin\Debug\ControlWork2Task2.exe.config
+C:\Users\renat\source\repos\ControlWork2Task2\ControlWork2Task2\bin\Debug\ControlWork2Task2.exe
+C:\Users\renat\source\repos\ControlWork2Task2\ControlWork2Task2\bin\Debug\ControlWork2Task2.pdb
+C:\Users\renat\source\repos\ControlWork2Task2\ControlWork2Task2\obj\Debug\ControlWork2Task2.csprojAssemblyReference.cache
+C:\Users\renat\source\repos\ControlWork2Task2\ControlWork2Task2\obj\Debug\ControlWork2Task2.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\ControlWork2Task2\ControlWork2Task2\obj\Debug\ControlWork2Task2.exe
+C:\Users\renat\source\repos\ControlWork2Task2\ControlWork2Task2\obj\Debug\ControlWork2Task2.pdb
